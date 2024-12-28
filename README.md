@@ -12,92 +12,39 @@
   </a>
 </p>
 
-<h3 align="left">Technologies & Tools:</h3>
-<p align="left">
-  <strong>Frontend:</strong>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <i class="fab fa-react" style="font-size: 40px; color: #61DAFB;"></i>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <i class="fab fa-next" style="font-size: 40px; color: #000;"></i>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <i class="fas fa-stream" style="font-size: 40px; color: #06B6D4;"></i>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <i class="fab fa-css3-alt" style="font-size: 40px; color: #1572B6;"></i>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <i class="fab fa-js" style="font-size: 40px; color: #F7DF1E;"></i>
-  </a>
-</p>
+## Technologies & Tools
 
-<p align="left">
-  <strong>Backend:</strong>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <i class="fab fa-java" style="font-size: 40px; color: #007396;"></i>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <i class="fas fa-python" style="font-size: 40px; color: #092E20;"></i>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <i class="fab fa-php" style="font-size: 40px; color: #777BB4;"></i>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <i class="fab fa-node-js" style="font-size: 40px; color: #339933;"></i>
-  </a>
-</p>
+### 🖥️ Frontend
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p align="left">
-  <strong>Databases:</strong>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <i class="fas fa-database" style="font-size: 40px; color: #47A248;"></i>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <i class="fas fa-server" style="font-size: 40px; color: #4479A1;"></i>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <i class="fas fa-database" style="font-size: 40px; color: #CC2927;"></i>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <i class="fas fa-database" style="font-size: 40px; color: #003B57;"></i>
-  </a>
-</p>
+### 🔙 Backend
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<p align="left">
-  <strong>Version Control & Dev Tools:</strong>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <i class="fab fa-git-alt" style="font-size: 40px; color: #F05032;"></i>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <i class="fas fa-fire" style="font-size: 40px; color: #FFCA28;"></i>
-  </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <i class="fas fa-envelope-open-text" style="font-size: 40px; color: #FF6C37;"></i>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <i class="fab fa-linux" style="font-size: 40px; color: #FCC624;"></i>
-  </a>
-</p>
+### 💾 Databases
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<p align="left">
-  <strong>Other Technologies:</strong>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <i class="fas fa-microchip" style="font-size: 40px; color: #00979D;"></i>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <i class="fab fa-cuttlefish" style="font-size: 40px; color: #00599C;"></i>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <i class="fab fa-cuttlefish" style="font-size: 40px; color: #00599C;"></i>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <i class="fab fa-cuttlefish" style="font-size: 40px; color: #239120;"></i>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <i class="fab fa-js" style="font-size: 40px; color: #3178C6;"></i>
-  </a>
-</p>
+### 🛠️ Version Control & Dev Tools
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🌟 Other Technologies
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 <h3 align="left">GitHub Stats:</h3>
