@@ -14,9 +14,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza alali" height="30" width="40" />
   </a>
   <a href="https://linktr.ee/alali.hamza" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linktree.svg" alt="linktree alali.hamza" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Linktree-39e09b?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" height="30" />
   </a>
 </p>
+
 
 ## Technologies & Tools
 
