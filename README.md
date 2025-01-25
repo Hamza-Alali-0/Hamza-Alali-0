@@ -6,9 +6,8 @@
 - ⚡ Fun fact: **I enjoy solving problems and learning new things every day!**
 
 <a href="https://hamza-alali-0.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Check_Portfolio-%2300FF00.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Check Portfolio" />
+  <img src="https://img.shields.io/badge/Check_Portfolio-%23339933.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Check Portfolio" />
 </a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/@hamzaalali0" target="blank">
