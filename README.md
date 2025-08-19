@@ -3,8 +3,6 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=💻+Software+Engineering+Student;🌍+Full-Stack+Developer;)
-
-
 </div>
 
 <div align="center">
@@ -15,9 +13,7 @@
   <a href="https://hamza-alali-0.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20My%20Portfolio-Explore%20Projects-FF0080?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
-  <a href="https://hamza-alali-0.github.io/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Click%20Here-FF4081?style=for-the-badge&logo=rocket&logoColor=white" height="40"/>
-  </a>
+ 
 </p>
 
 <p align="center">
