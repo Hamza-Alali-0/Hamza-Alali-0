@@ -137,10 +137,4 @@ const hamza = {
 
 > *"The best way to predict the future is to create it. Every line of code is a step towards building something meaningful."*
 
-<div align="center">
-  
 
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=120&section=footer&text=✨%20Thanks%20for%20visiting!%20✨&fontSize=20&fontColor=ffffff&animation=twinkling"/>
-
-</div>
