@@ -141,6 +141,6 @@ const hamza = {
   
 
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
+<img src="https://img.shields.io/badge/⚡Thanks_for_visiting⚡-000000?style=for-the-badge&logo=starship&logoColor=FF0080&labelColor=111111&color=FF0080"/>
 
 </div>
