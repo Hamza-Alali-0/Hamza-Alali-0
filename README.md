@@ -1,6 +1,5 @@
-<div align="center">
 # 👋 Hi, I'm **Alali Hamza**
-</div>
+
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=💻+Software+Engineering+Student;🌍+Full-Stack+Developer;)
