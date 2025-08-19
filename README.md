@@ -9,17 +9,20 @@
 
 <div align="center">
   
-  ## 🌟 **FEATURED SHOWCASE** 🌟
+  ## 🌟 **My Portfolio ** 🌟
   
+<p align="center">
   <a href="https://hamza-alali-0.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_MY_PORTFOLIO_WEBSITE-EXPLORE_LIVE_PROJECTS-FF0080?style=for-the-badge&logoColor=white&labelColor=FF0080&color=FF4081" height="60"/>
+    <img src="https://img.shields.io/badge/🚀%20My%20Portfolio-Explore%20Projects-FF0080?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
-  
   <a href="https://hamza-alali-0.github.io/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20see%20my%20work-FF0080?style=for-the-badge&logo=rocket&logoColor=white" height="40"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Click%20Here-FF4081?style=for-the-badge&logo=rocket&logoColor=white" height="40"/>
   </a>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=FF4081&center=true&vCenter=true&width=600&lines=💻+Live+Projects+%7C+Interactive+Demos;🎨+Modern+UI%2FUX+%7C+Clean+Code;🚀+Full-Stack+Solutions+%7C+Mobile+Apps"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=FF4081&center=true&vCenter=true&width=600&lines=💻+Live+Projects+%7C+Interactive+Demos;🎨+Modern+UI%2FUX+%7C+Clean+Code;🚀+Full-Stack+Solutions+%7C+Mobile+Apps"/>
+</p>
   
   ---
   
