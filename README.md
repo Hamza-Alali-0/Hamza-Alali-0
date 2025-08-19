@@ -9,7 +9,22 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hamza-alali-0.github.io/)
+  ## 🌟 **FEATURED SHOWCASE** 🌟
+  
+  <a href="https://hamza-alali-0.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_MY_PORTFOLIO_WEBSITE-EXPLORE_LIVE_PROJECTS-FF0080?style=for-the-badge&logoColor=white&labelColor=FF0080&color=FF4081" height="60"/>
+  </a>
+  
+  <a href="https://hamza-alali-0.github.io/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20see%20my%20work-FF0080?style=for-the-badge&logo=rocket&logoColor=white" height="40"/>
+  </a>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=500&color=FF4081&center=true&vCenter=true&width=600&lines=💻+Live+Projects+%7C+Interactive+Demos;🎨+Modern+UI%2FUX+%7C+Clean+Code;🚀+Full-Stack+Solutions+%7C+Mobile+Apps"/>
+  
+  ---
+  
+  ### 📬 **Get In Touch**
+  
   [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alali.hamza.dev@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza--alali)
 
