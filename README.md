@@ -57,7 +57,7 @@ const hamza = {
 
 ## 🛠️ **Technology Arsenal**
 
-<details open>
+
 
 
 ### 🎨 Frontend
@@ -90,9 +90,6 @@ const hamza = {
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs" />
 </p>
-
-
-</details>
 
 
 
