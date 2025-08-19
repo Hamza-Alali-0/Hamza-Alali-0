@@ -139,7 +139,7 @@ const hamza = {
 
 <div align="center">
   
-  **⭐ From [hamza-alali-0](https://github.com/hamza-alali-0)**
+
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
