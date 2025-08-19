@@ -8,8 +8,8 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-3B82F6?style=for-the-badge&logoColor=white)](https://hamza-alali-0.github.io/)
-  [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:alali.hamza.dev@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hamza-alali-0.github.io/)
+  [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alali.hamza.dev@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza--alali)
 
 </div>
