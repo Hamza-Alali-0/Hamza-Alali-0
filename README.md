@@ -21,17 +21,11 @@
 </p>
   
   ---
-  
-  ### Get In Touch
-  
-  [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alali.hamza.dev@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza--alali)
 
-</div>
 
----
 
-## 🎓 **About Me**
+
+##  About Me
 
 ```typescript
 const hamza = {
@@ -55,7 +49,7 @@ const hamza = {
 
 ---
 
-## 🛠️ **Technology Arsenal**
+## Technology Arsenal
 
 
 
@@ -97,7 +91,7 @@ const hamza = {
 
 ---
 
-## 📊 **GitHub Analytics**
+## GitHub Analytics
 
 
 
