@@ -52,39 +52,47 @@ const hamza = {
 
 ##  **Technology Arsenal**
 
-
-
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-</p>
-
-### 🛠️ Tools & Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea" />
-</p>
-
-### 🔧 Other
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs" />
-</p>
+<table>
+  <tr>
+    <td style="vertical-align:top; padding-right:24px;">
+      <strong>Frontend</strong>
+      <div>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" alt="frontend icons" />
+      </div>
+    </td>
+    <td style="vertical-align:top; padding-right:24px;">
+      <strong>Backend</strong>
+      <div>
+        <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" alt="backend icons" />
+      </div>
+    </td>
+    <td style="vertical-align:top; padding-right:24px;">
+      <strong>Databases</strong>
+      <div>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" alt="databases" />
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="sql server" />
+      </div>
+    </td>
+    <td style="vertical-align:top; padding-right:24px;">
+      <strong>Mobile</strong>
+      <div>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="mobile icons" />
+      </div>
+    </td>
+    <td style="vertical-align:top; padding-right:24px;">
+      <strong>Tools</strong>
+      <div>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea" alt="tools" />
+      </div>
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Other</strong>
+      <div>
+        <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs" alt="other" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 
