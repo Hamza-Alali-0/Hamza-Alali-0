@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Alali Hamza**
+#   **Alali Hamza**
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 </p>
 <div align="center">
   
-  ##  **My Portfolio ** 
+  ##  My Portfolio 
   
 <p align="center">
   <a href="https://hamza-alali-0.github.io/" target="_blank">
@@ -18,25 +18,23 @@
  
 </p>
 
+---
 
-  
-  ---
-  
-
-
-
-
-##  **About Me**
+## **About Me**
 
 ```typescript
 const hamza = {
-    education: "4th Year Computer Science & Networks Engineering Student",
-    passions: ["Full-Stack Development", "Mobile Applications", "Problem Solving"],
-    currentFocus: ["React", "Next.js", "Java", "Spring Boot"],
-    exploring: ["Flutter", "Dart", "System Design"],
-    interests: ["Scalable Applications", "Clean Architecture", "Innovation"],
-    email: "alali.hamza.dev@gmail.com",
-    motto: "Building impactful software solutions, one line of code at a time 🚀"
+  education: "4th Year Computer Science & Networks Engineering Student",
+  passions: [
+    "Full-Stack Development",
+    "Mobile Applications",
+    "Problem Solving",
+  ],
+  currentFocus: ["React", "Next.js", "Java", "Spring Boot"],
+  exploring: ["Flutter", "Dart", "System Design"],
+  interests: ["Scalable Applications", "Clean Architecture", "Innovation"],
+  email: "alali.hamza.dev@gmail.com",
+  motto: "Building impactful software solutions, one line of code at a time 🚀",
 };
 ```
 
@@ -50,59 +48,48 @@ const hamza = {
 
 ---
 
-##  **Technology Arsenal**
+## **Technology Arsenal**
 
-<table>
-  <tr>
-    <td style="vertical-align:top; padding-right:24px;">
-      <strong>Frontend</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" alt="frontend icons" />
-      </div>
-    </td>
-    <td style="vertical-align:top; padding-right:24px;">
-      <strong>Backend</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" alt="backend icons" />
-      </div>
-    </td>
-    <td style="vertical-align:top; padding-right:24px;">
-      <strong>Databases</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" alt="databases" />
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="sql server" />
-      </div>
-    </td>
-    <td style="vertical-align:top; padding-right:24px;">
-      <strong>Mobile</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="mobile icons" />
-      </div>
-    </td>
-    <td style="vertical-align:top; padding-right:24px;">
-      <strong>Tools</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea" alt="tools" />
-      </div>
-    </td>
-    <td style="vertical-align:top;">
-      <strong>Other</strong>
-      <div>
-        <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs" alt="other" />
-      </div>
-    </td>
-  </tr>
-</table>
+### 🎨 Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" />
+</p>
 
+### ⚙️ Backend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,php" />
+</p>
 
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### 🛠️ Tools & Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,idea" />
+</p>
+
+### 🔧 Other
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs" />
+</p>
 
 ---
 
-##  **GitHub Analytics**
-
-
+## **GitHub Analytics**
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-alali-0&theme=tokyonight&hide_border=true&background=0d1117&stroke=3B82F6&ring=8B5CF6&fire=06B6D4&currStreakLabel=ffffff"/>
@@ -138,6 +125,4 @@ const hamza = {
 
 ## 💭 **Latest Thoughts**
 
-> *"The best way to predict the future is to create it. Every line of code is a step towards building something meaningful."*
-
-
+> _"The best way to predict the future is to create it. Every line of code is a step towards building something meaningful."_
