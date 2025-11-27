@@ -36,7 +36,7 @@ const hamza = {
   exploring: ["Flutter", "Dart", "System Design"],
   interests: ["Scalable Applications", "Clean Architecture", "Innovation"],
   email: "alali.hamza.dev@gmail.com",
-  motto: "Building impactful software solutions, one line of code at a time 🚀",
+  motto: "Building impactful software solutions, one line of code at a time ",
 };
 ```
 
