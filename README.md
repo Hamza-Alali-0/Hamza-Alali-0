@@ -9,7 +9,7 @@
 </p>
 <div align="center">
   
-  ##  **My Portfolio ** 
+  ##  My Portfolio 
   
 <p align="center">
   <a href="https://hamza-alali-0.github.io/" target="_blank">
@@ -42,7 +42,6 @@ const hamza = {
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=hamza-alali-0&style=for-the-badge&color=3B82F6)
   ![GitHub Followers](https://img.shields.io/github/followers/hamza-alali-0?style=for-the-badge&color=3B82F6)
   ![GitHub Stars](https://img.shields.io/github/stars/hamza-alali-0?style=for-the-badge&color=3B82F6)
 
