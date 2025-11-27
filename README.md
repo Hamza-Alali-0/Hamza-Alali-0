@@ -1,4 +1,4 @@
-#   **Alali Hamza**
+#  Hi, I'm **Alali Hamza**
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 </p>
 <div align="center">
   
-  ##  My Portfolio 
+  ##  **My Portfolio ** 
   
 <p align="center">
   <a href="https://hamza-alali-0.github.io/" target="_blank">
@@ -17,6 +17,8 @@
   </a>
  
 </p>
+  
+  </div>
 
 ---
 
