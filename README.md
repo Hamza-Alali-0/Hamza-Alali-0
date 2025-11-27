@@ -1,13 +1,15 @@
-#  Hi, I'm **Alali Hamza**
+# 👋 Hi, I'm **Alali Hamza**
 
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=+Software+Engineering+Student;Full-Stack+Developer;)
 </div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=FF4081&center=true&vCenter=true&width=600&lines=Live+Projects+%7C+Interactive+Demos;Modern+UI%2FUX+%7C+Clean+Code;Full-Stack+Solutions+%7C+Mobile+Apps"/>
+</p>
 <div align="center">
   
-  ##  My Portfolio 
+  ##  **My Portfolio ** 
   
 <p align="center">
   <a href="https://hamza-alali-0.github.io/" target="_blank">
@@ -16,16 +18,15 @@
  
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=FF4081&center=true&vCenter=true&width=600&lines=Live+Projects+%7C+Interactive+Demos;+Modern+UI%2FUX+%7C+Clean+Code;Full-Stack+Solutions+%7C+Mobile+Apps"/>
-</p>
+
   
   ---
+  
 
 
 
 
-##  About Me
+##  **About Me**
 
 ```typescript
 const hamza = {
@@ -49,7 +50,7 @@ const hamza = {
 
 ---
 
-## Technology Arsenal
+##  **Technology Arsenal**
 
 
 
@@ -91,7 +92,7 @@ const hamza = {
 
 ---
 
-## GitHub Analytics
+##  **GitHub Analytics**
 
 
 
