@@ -26,7 +26,7 @@
 
 ```typescript
 const hamza = {
-  education: "4th Year Computer Science & Networks Engineering Student",
+  education: "5th Year Computer Science & Networks Engineering Student",
   passions: [
     "Full-Stack Development",
     "Mobile Applications",
